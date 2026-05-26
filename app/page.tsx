@@ -6,12 +6,14 @@ import { AboutSection } from "@/components/about-section"
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen">
+    <>
       <Header />
-      <HeroSection />
-      <SportsSection />
-      <AboutSection />
+      <main>
+        <HeroSection />
+        <SportsSection />
+        <AboutSection />
+      </main>
       <Footer />
-    </main>
+    </>
   )
 }

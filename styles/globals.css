@@ -119,7 +119,10 @@
   * {
     @apply border-border outline-ring/50;
   }
-  body {
-    @apply bg-background text-foreground;
+   body {
+    @apply text-foreground;
+    background:
+      radial-gradient(circle at top, rgba(16,185,129,0.08), transparent 35%),
+      linear-gradient(180deg, #0b1220 0%, #05070d 100%);
   }
 }

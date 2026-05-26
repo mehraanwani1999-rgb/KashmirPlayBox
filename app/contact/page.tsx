@@ -5,11 +5,13 @@ import { ContactDetails } from "@/components/contact-details"
 
 export default function ContactPage() {
   return (
-    <main className="min-h-screen">
+    <>
       <Header />
-      <ContactHero />
-      <ContactDetails />
+      <main>
+        <ContactHero />
+        <ContactDetails />
+      </main>
       <Footer />
-    </main>
+    </>
   )
 }
