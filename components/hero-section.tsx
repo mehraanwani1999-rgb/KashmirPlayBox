@@ -7,14 +7,26 @@ export function HeroSection() {
       <div className="shell">
         <div className="relative isolate overflow-hidden rounded-[36px] border border-white/10 shadow-[0_30px_90px_rgba(0,0,0,0.25)]">
           <div className="absolute inset-0">
+            {/* Mobile image */}
+            <Image
+              src="/images/mobile-turf-hero.png"
+              alt="Multi-Sport Turf Facility"
+              fill
+              priority
+              sizes="100vw"
+              className="object-cover object-center scale-[1.05] sm:hidden"
+            />
+
+            {/* Desktop image */}
             <Image
               src="/images/turf-hero.jpg"
               alt="Multi-Sport Turf Facility"
               fill
               priority
               sizes="100vw"
-              className="object-cover object-center scale-[1.03]"
+              className="hidden object-cover object-center scale-[1.03] sm:block"
             />
+
             <div className="absolute inset-0 bg-gradient-to-r from-black/72 via-black/35 to-black/55" />
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(255,255,255,0.18),transparent_32%),radial-gradient(circle_at_bottom_left,rgba(34,197,94,0.18),transparent_28%)]" />
             <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(255,255,255,0.03),rgba(0,0,0,0.25))]" />
