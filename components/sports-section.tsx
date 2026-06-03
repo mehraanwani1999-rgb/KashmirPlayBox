@@ -6,9 +6,9 @@ export function SportsSection() {
       <div className="shell">
         <div className="overflow-hidden rounded-[36px] border border-emerald-400/10 bg-emerald-950/20 p-8 backdrop-blur-2xl shadow-[0_20px_80px_rgba(0,0,0,0.25)]">
 
-          <p className="mb-3 text-[11px] uppercase tracking-[0.25em] text-white/45">
+          {/* <p className="mb-3 text-[11px] uppercase tracking-[0.25em] text-white/45">
             SPORTS
-          </p>
+          </p> */}
 
           <h2 className="mb-8 text-5xl font-semibold tracking-[-0.05em] text-white">
             Sports

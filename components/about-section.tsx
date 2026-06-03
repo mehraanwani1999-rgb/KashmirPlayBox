@@ -9,9 +9,9 @@ export function AboutSection() {
           <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr]">
 
             <div>
-              <p className="mb-3 text-[11px] uppercase tracking-[0.25em] text-white/45">
+              {/* <p className="mb-3 text-[11px] uppercase tracking-[0.25em] text-white/45">
                 ABOUT US
-              </p>
+              </p> */}
 
               <h2 className="text-5xl font-semibold tracking-[-0.05em] text-white">
                 About Us
