@@ -69,7 +69,7 @@ export function HeroSection() {
                 </a>
               </div>
 
-              <div className="mt-10 grid max-w-3xl grid-cols-1 gap-3 sm:grid-cols-3">
+              {/* <div className="mt-10 grid max-w-3xl grid-cols-1 gap-3 sm:grid-cols-3">
                 <div className="rounded-[24px] border border-white/15 bg-white/10 p-5 backdrop-blur-xl">
                   <p className="text-3xl font-semibold tracking-[-0.04em] text-white">4</p>
                   <p className="mt-1 text-sm text-white/70">Sports</p>
@@ -82,7 +82,7 @@ export function HeroSection() {
                   <p className="text-3xl font-semibold tracking-[-0.04em] text-white">100%</p>
                   <p className="mt-1 text-sm text-white/70">Floodlit</p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
