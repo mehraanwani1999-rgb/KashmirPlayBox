@@ -161,7 +161,7 @@ export function ContactDetails() {
             <div className="overflow-hidden rounded-[24px]">
               <div className="aspect-[16/7] overflow-hidden">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.3878076657247!2d74.84767957617665!3d34.033921918696734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e18ee9dcb649b9%3A0x3b5941bcea905!2zU3JpbmFnYXIgQnJpdGlzaCBTY2hvb2wg2LPYsduM2Ybar9ixINio2LHZuti0INin2LPaqdmI2YQ!5e0!3m2!1sen!2sin!4v1779478289693!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2961.955192901037!2d74.84820097571566!3d34.03441507316364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDAyJzAzLjkiTiA3NMKwNTEnMDIuOCJF!5e1!3m2!1sen!2sin!4v1780506453265!5m2!1sen!2sin"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
