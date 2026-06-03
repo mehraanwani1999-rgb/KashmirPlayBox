@@ -19,7 +19,7 @@ export function HeroSection() {
 
             {/* Desktop image */}
             <Image
-              src="/images/turf-hero.jpg"
+              src="/images/turf-hero.jpeg"
               alt="Multi-Sport Turf Facility"
               fill
               priority
