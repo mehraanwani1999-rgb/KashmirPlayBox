@@ -7,10 +7,10 @@ export function Footer() {
         <div className="glass rounded-[28px] px-5 py-6 sm:px-7">
           <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
             <div>
-              <p className="text-sm font-semibold tracking-[-0.02em] text-foreground">
+              {/* <p className="text-sm font-semibold tracking-[-0.02em] text-foreground">
                 PlayBox Kashmir
-              </p>
-              <p className="mt-1 text-sm text-foreground/60">Multi-Sports Turf</p>
+              </p> */}
+              <p className="mt-1 text-sm text-foreground/60">All rights reserved. PlayBox Kashmir. 2026</p>
             </div>
 
             <div className="flex flex-wrap items-center gap-4 text-sm text-foreground/65">

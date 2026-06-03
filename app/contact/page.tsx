@@ -9,7 +9,7 @@ export default function ContactPage() {
       <main>
         <ContactDetails />
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </>
   )
 }

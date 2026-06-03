@@ -16,16 +16,24 @@ export function AboutSection() {
               <h2 className="text-5xl font-semibold tracking-[-0.05em] text-white">
                 About Us
               </h2>
+              <p className="mt-5 max-w-sm text-xl font-medium leading-relaxed tracking-[-0.03em] text-emerald-100/90 lg:text-2xl">
+                Kashmir has always had the passion.
+                <br />
+                Now it has the pitch.
+              </p>
             </div>
 
             <div>
               <p className="max-w-2xl text-lg leading-8 text-white/75">
-                Playbox is your go-to multi-sport turf facility — a place where
-                friends gather, families bond, and everyone gets to have a
-                great time. No pressure, no leagues, just pure fun on premium
-                turf courts built for every sport you love.
+                PlayBox Kashmir is Srinagar’s first dedicated multi-sport recreational facility
+                 — built for those who take their game seriously, and those who just want to have fun.
+                  With premium synthetic turf, professional pickleball courts, and batting nets,
+                   we’ve created a space where sport meets excellence.
+                
               </p>
-
+                <p className="max-w-2xl text-lg leading-8 text-white/75">
+                We’re here for every game, every player, every day.
+                </p>
               <Link
                 href="/contact"
                 className="
