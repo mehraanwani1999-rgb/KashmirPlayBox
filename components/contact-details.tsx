@@ -123,7 +123,7 @@ export function ContactDetails() {
               </div>
 
               <p className="mt-4 text-sm leading-6 text-white/65">
-                Get in touch for any assistance or queries
+                Get in touch for any assistance or queries.
               </p>
             </div>
 

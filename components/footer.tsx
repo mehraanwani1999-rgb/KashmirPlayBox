@@ -10,7 +10,7 @@ export function Footer() {
               {/* <p className="text-sm font-semibold tracking-[-0.02em] text-foreground">
                 PlayBox Kashmir
               </p> */}
-              <p className="mt-1 text-sm text-foreground/60">All rights reserved. PlayBox Kashmir. 2026</p>
+              <p className="mt-1 text-sm text-foreground/60">All Rights Reserved. PlayBox Kashmir. 2026</p>
             </div>
 
             <div className="flex flex-wrap items-center gap-4 text-sm text-foreground/65">
